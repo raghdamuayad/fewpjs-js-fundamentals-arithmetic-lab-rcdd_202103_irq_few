@@ -16,4 +16,3 @@ console.log(mod)
 
 
  let random = Math.floor(Math.random() * 10) + 1;
-

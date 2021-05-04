@@ -7,14 +7,14 @@ let multiply = num1 * num2
 console.log(multiply)
 
 //}
-function getremainder() {
+//function getremainder() {
 let y=16;
 let x=3;
 let remainder = y % x;
-{
-  return getremainder.remainder ;
-}
-}
+//{
+//  return getremainder.remainder ;
+//}
+//}
 function getRandomIntInclusive(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);

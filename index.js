@@ -10,7 +10,8 @@ console.log(multiply)
 //function getremainder() {
 let num3=16;
 let num4=3;
-let remainder = y % x;
+let mod =num3% num4;
+console.log(mod)
 //{
 //  return getremainder.remainder ;
 //}

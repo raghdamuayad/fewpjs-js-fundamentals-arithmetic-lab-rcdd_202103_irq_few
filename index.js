@@ -4,7 +4,7 @@ function multiply() {
 let num1= 1;
 let num2 = 62;
 let multiply = num1 * num2
-console.log(multiply)
+console.log(multiply())
 
 }
 function getremainder() {

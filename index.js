@@ -8,8 +8,8 @@ console.log(multiply)
 
 //}
 //function getremainder() {
-let y=16;
-let x=3;
+let num3=16;
+let num4=3;
 let remainder = y % x;
 //{
 //  return getremainder.remainder ;
